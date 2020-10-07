@@ -1,3 +1,3 @@
 # datascience_projects
 
-This is for tutorial purpose!
+I would like to introduce my personal data science projects. 
